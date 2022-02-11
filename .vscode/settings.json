@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "Makefile": "Makefile",
+        "*.c": "c",
+        "ostream": "cpp"
+    }
+}
